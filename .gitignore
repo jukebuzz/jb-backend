@@ -17,7 +17,3 @@
 
 # Ignore sensitive data
 /.env
-frontend/app/styles/fonts/fontawesome-webfont.eot
-frontend/app/styles/fonts/fontawesome-webfont.svg
-frontend/app/styles/fonts/fontawesome-webfont.ttf
-frontend/app/styles/fonts/fontawesome-webfont.woff

@@ -19,11 +19,9 @@ gem 'soundcloud'
 
 # Settings
 gem 'settingslogic'
+gem 'dotenv-rails'
 
 group :development do
-  # Local configuration
-  gem 'dotenv-rails'
-
   # Annotate models
   gem 'annotate'
 
@@ -48,5 +46,4 @@ group :production do
   gem 'pg'
   gem 'unicorn'
   gem 'newrelic_rpm'
-  gem 'rails_12factor'
 end
