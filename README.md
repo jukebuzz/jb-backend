@@ -1,6 +1,7 @@
-# Jukebuzz
+# Jukebuzz backend
+> Office music listening was never so fair and easy! 
 
-## Office music listening was never so fair and easy! 
+## About Jukebuzz
 
 If you are a young and hot team under one roof it's very important that you haven't got any conflicts, especially 
 because of the so stupid reason as music preferences. Our Jukebuzz service is like a jukebox for office use. Pay for 
@@ -11,5 +12,17 @@ Create own rooms, invite your teammates - coins will be collected automatically 
 it easily from one sound source. Showing crackerjack music visualization and track title with any projector on a wall 
 will be a pleasant bonus.
 
-Railsrumble users are automatically attached to #railsrumble room, what is playing in our office! Be free to add you 
-preffered tracks :)
+## Architecture
+
+* [Frontend](https://github.com/jukebuzz/jb-backend) for user web interface
+* [Backend](https://github.com/jukebuzz/jb-frontend) for API and admin area
+
+## Authors
+
+[@donbobka](https://github.com/donbobka),
+[@maximkoretskiy](https://github.com/maximkoretskiy),
+[@sponomarev](https://github.com/sponomarev)
+
+## License
+
+This repository is under MIT license. See [LICENSE](LICENSE) file for details.
