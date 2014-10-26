@@ -43,6 +43,11 @@ group :development do
   gem 'guard-annotate', require: false
   gem 'guard-rubocop', require: false
   gem 'guard-bundler', require: false
+  gem 'guard-rspec', require: false
+end
+
+group :development, :test do
+  gem 'rspec-rails', '~> 3.1.0'
 end
 
 group :production do
