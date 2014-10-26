@@ -1,5 +1,8 @@
 # Jukebuzz backend
-> Office music listening was never so fair and easy! 
+> Office music listening was never so fair and easy!
+
+[![Build Status](https://travis-ci.org/jukebuzz/jb-backend.svg)](https://travis-ci.org/jukebuzz/jb-backend)
+[![Coverage Status](https://coveralls.io/repos/jukebuzz/jb-backend/badge.png)](https://coveralls.io/r/jukebuzz/jb-backend)
 
 ## About Jukebuzz
 
