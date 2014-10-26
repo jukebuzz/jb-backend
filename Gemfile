@@ -50,6 +50,10 @@ group :development, :test do
   gem 'rspec-rails', '~> 3.1.0'
 end
 
+group :test do
+  gem 'shoulda-matchers', require: false
+end
+
 group :production do
   gem 'unicorn'
   gem 'newrelic_rpm'
