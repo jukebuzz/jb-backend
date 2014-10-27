@@ -52,6 +52,9 @@ end
 group :test do
   gem 'coveralls', require: false
   gem 'shoulda-matchers', require: false
+  gem 'rspec-collection_matchers', require: false
+  gem 'factory_girl_rails', '~> 4.0'
+  gem 'faker'
 end
 
 group :production do
